@@ -1,12 +1,12 @@
-package com.example.examplemod;
+package com.maysat.mymods;
 
 import net.minecraft.init.Blocks;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 
-@Mod(modid = ExampleMod.MODID, version = ExampleMod.VERSION)
-public class ExampleMod
+@Mod(modid = MyMods.MODID, version = MyMods.VERSION)
+public class MyMods
 {
     public static final String MODID = "examplemod";
     public static final String VERSION = "1.0";
