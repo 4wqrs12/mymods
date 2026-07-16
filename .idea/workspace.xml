@@ -5,35 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc771fd6-c515-4aa8-a635-e67c05874711" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/annotation-processors.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/annotation-processors.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-1.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-2.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-7.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-client-1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-client-2.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-client-3.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-client-latest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-junk-earlystartup.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/DIM-1/data/villages_nether.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/DIM-1/data/villages_nether.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/DIM1/data/villages_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/DIM1/data/villages_end.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/data/villages.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/mod testing/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/level.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/mod testing/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/level.dat_old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/mod testing/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/region/r.-1.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/mod testing/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/session.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/Config.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/MyMods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/MyMods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/items/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/items/ModItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/proxies/ClientProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/proxies/ClientProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/mymods/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/mymods/lang/en_US.lang" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +90,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="3GZ6kclViip2yUKeuSqT6a4EOSY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -102,13 +109,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/assets/mymods/models/item" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.maysat.mymods.items" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/mymods/models/item" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/mymods/textures/items" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/assets/mymods/textures/items" />
       <recent name="$PROJECT_DIR$/src/main/resources/assets/mymods/models/item" />

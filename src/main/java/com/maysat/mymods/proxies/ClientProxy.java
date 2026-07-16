@@ -6,5 +6,7 @@ public class ClientProxy extends CommonProxy {
     @Override
     public void registerRenders() {
         ModItems.registerRender(ModItems.copperIngot);
+        ModItems.registerRender(ModItems.copperSword);
+        ModItems.registerRender(ModItems.copperAxe);
     }
 }
