@@ -15,20 +15,19 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-6.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-7.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-17-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-17-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-17-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-17-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-17-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-17-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-17-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-17-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-17-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-17-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-17-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-17-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2026-07-17-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-17-7.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-client-1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-client-2.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-client-3.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-client-latest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-junk-earlystartup.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/mod testing/DIM-1/data/villages_nether.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/DIM-1/data/villages_nether.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/mod testing/DIM1/data/villages_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/DIM1/data/villages_end.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/mod testing/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/data/villages.dat" afterDir="false" />
@@ -38,8 +37,7 @@
       <change beforePath="$PROJECT_DIR$/run/saves/mod testing/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/session.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/MyMods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/MyMods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/proxies/ClientProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/proxies/ClientProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/blocks/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/blocks/ModBlocks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/mymods/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/mymods/lang/en_US.lang" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

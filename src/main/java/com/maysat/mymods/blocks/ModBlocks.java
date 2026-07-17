@@ -8,13 +8,16 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 
 public class ModBlocks {
     public static Block copperBlock;
+    public static Block copperOre;
 
     public static void init() {
         copperBlock = new CopperBlock();
+        copperOre = new CopperOre();
     }
 
     public static void registers() {
         register(copperBlock);
+        register(copperOre);
     }
 
     public static void register(Block block) {
