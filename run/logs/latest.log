@@ -1,55 +1,41 @@
-[22:42:26] [Client thread/INFO]: Setting user: Player764
-[22:42:27] [Client thread/INFO]: LWJGL Version: 2.9.2
-[22:42:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:mymods
-[22:42:30] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[22:42:30] [Thread-7/INFO]: Initializing LWJGL OpenAL
-[22:42:30] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[22:42:30] [Thread-7/INFO]: OpenAL initialized.
-[22:42:31] [Sound Library Loader/INFO]: Sound engine started
-[22:42:32] [Client thread/INFO]: Created: 16x16 textures-atlas
-[22:42:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:mymods
-[22:42:32] [Client thread/INFO]: SoundSystem shutting down...
-[22:42:33] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[22:42:33] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[22:42:33] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[22:42:33] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[22:42:33] [Thread-9/INFO]: OpenAL initialized.
-[22:42:33] [Sound Library Loader/INFO]: Sound engine started
-[22:42:34] [Client thread/INFO]: Created: 512x512 textures-atlas
-[22:42:38] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
-[22:42:38] [Server thread/INFO]: Generating keypair
-[22:42:39] [Server thread/INFO]: Preparing start region for level 0
-[22:42:40] [Server thread/INFO]: Changing view distance to 2, from 10
-[22:42:40] [Server thread/INFO]: Player764[local:E:b8e933c3] logged in with entity id 269 at (-244.66421889053973, 72.0, 166.56200056026907)
-[22:42:40] [Server thread/INFO]: Player764 joined the game
-[22:42:43] [Server thread/INFO]: Player764 has just earned the achievement [Taking Inventory]
-[22:42:43] [Client thread/INFO]: [CHAT] Player764 has just earned the achievement [Taking Inventory]
-[22:43:36] [Server thread/INFO]: Saving and pausing game...
-[22:43:36] [Server thread/INFO]: Saving chunks for level 'mod testing'/Overworld
-[22:43:36] [Server thread/INFO]: Saving chunks for level 'mod testing'/Nether
-[22:43:36] [Server thread/INFO]: Saving chunks for level 'mod testing'/The End
-[22:44:38] [Server thread/INFO]: Saving and pausing game...
-[22:44:38] [Server thread/INFO]: Saving chunks for level 'mod testing'/Overworld
-[22:44:38] [Server thread/INFO]: Saving chunks for level 'mod testing'/Nether
-[22:44:38] [Server thread/INFO]: Saving chunks for level 'mod testing'/The End
-[22:46:08] [Server thread/INFO]: Saving and pausing game...
-[22:46:08] [Server thread/INFO]: Saving chunks for level 'mod testing'/Overworld
-[22:46:08] [Server thread/INFO]: Saving chunks for level 'mod testing'/Nether
-[22:46:08] [Server thread/INFO]: Saving chunks for level 'mod testing'/The End
-[22:46:11] [Server thread/INFO]: Player764 fell out of the world
-[22:46:12] [Client thread/INFO]: [CHAT] Player764 fell out of the world
-[22:46:12] [Server thread/INFO]: [Player764: Killed Player764]
-[22:46:12] [Client thread/INFO]: [CHAT] Killed Player764
-[22:47:26] [Server thread/INFO]: Saving and pausing game...
-[22:47:26] [Server thread/INFO]: Saving chunks for level 'mod testing'/Overworld
-[22:47:26] [Server thread/INFO]: Saving chunks for level 'mod testing'/Nether
-[22:47:26] [Server thread/INFO]: Saving chunks for level 'mod testing'/The End
-[22:47:27] [Server thread/INFO]: Stopping server
-[22:47:27] [Server thread/INFO]: Saving players
-[22:47:27] [Server thread/INFO]: Saving worlds
-[22:47:27] [Server thread/INFO]: Saving chunks for level 'mod testing'/Overworld
-[22:47:27] [Server thread/INFO]: Saving chunks for level 'mod testing'/Nether
-[22:47:27] [Server thread/INFO]: Saving chunks for level 'mod testing'/The End
-[22:47:28] [Client thread/INFO]: Stopping!
-[22:47:28] [Client thread/INFO]: SoundSystem shutting down...
-[22:47:29] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[11:57:45] [Client thread/INFO]: Setting user: Player596
+[11:57:47] [Client thread/INFO]: LWJGL Version: 2.9.2
+[11:57:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:mymods
+[11:57:52] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[11:57:52] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[11:57:52] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[11:57:52] [Thread-7/INFO]: OpenAL initialized.
+[11:57:53] [Sound Library Loader/INFO]: Sound engine started
+[11:57:53] [Client thread/INFO]: Created: 16x16 textures-atlas
+[11:57:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:mymods
+[11:57:54] [Client thread/INFO]: SoundSystem shutting down...
+[11:57:54] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[11:57:54] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[11:57:55] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[11:57:55] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[11:57:55] [Thread-9/INFO]: OpenAL initialized.
+[11:57:55] [Sound Library Loader/INFO]: Sound engine started
+[11:57:56] [Client thread/INFO]: Created: 512x512 textures-atlas
+[11:58:01] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[11:58:01] [Server thread/INFO]: Generating keypair
+[11:58:02] [Server thread/INFO]: Preparing start region for level 0
+[11:58:03] [Server thread/INFO]: Changing view distance to 2, from 10
+[11:58:04] [Server thread/INFO]: Player596[local:E:dce0f9fd] logged in with entity id 260 at (-315.43759046517124, 67.0, 214.41326012235373)
+[11:58:04] [Server thread/INFO]: Player596 joined the game
+[11:58:08] [Server thread/INFO]: [Player596: Set own game mode to Creative Mode]
+[11:58:08] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[11:58:18] [Server thread/INFO]: Player596 has just earned the achievement [Taking Inventory]
+[11:58:18] [Client thread/INFO]: [CHAT] Player596 has just earned the achievement [Taking Inventory]
+[11:59:09] [Server thread/INFO]: Saving and pausing game...
+[11:59:09] [Server thread/INFO]: Saving chunks for level 'mod testing'/Overworld
+[11:59:09] [Server thread/INFO]: Saving chunks for level 'mod testing'/Nether
+[11:59:09] [Server thread/INFO]: Saving chunks for level 'mod testing'/The End
+[11:59:10] [Server thread/INFO]: Stopping server
+[11:59:10] [Server thread/INFO]: Saving players
+[11:59:10] [Server thread/INFO]: Saving worlds
+[11:59:10] [Server thread/INFO]: Saving chunks for level 'mod testing'/Overworld
+[11:59:10] [Server thread/INFO]: Saving chunks for level 'mod testing'/Nether
+[11:59:10] [Server thread/INFO]: Saving chunks for level 'mod testing'/The End
+[11:59:11] [Client thread/INFO]: Stopping!
+[11:59:11] [Client thread/INFO]: SoundSystem shutting down...
+[11:59:11] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

@@ -1,5 +1,6 @@
 package com.maysat.mymods.proxies;
 
+import com.maysat.mymods.blocks.ModBlocks;
 import com.maysat.mymods.items.ModItems;
 
 public class ClientProxy extends CommonProxy {
@@ -11,5 +12,8 @@ public class ClientProxy extends CommonProxy {
         ModItems.registerRender(ModItems.copperShovel);
         ModItems.registerRender(ModItems.copperPickaxe);
         ModItems.registerRender(ModItems.copperHoe);
+
+
+        ModBlocks.registerRender(ModBlocks.copperBlock);
     }
 }

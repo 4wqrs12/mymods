@@ -1,6 +1,8 @@
 package com.maysat.mymods;
 
+import com.maysat.mymods.blocks.ModBlocks;
 import com.maysat.mymods.items.ModItems;
+import com.maysat.mymods.other.Recipes;
 import com.maysat.mymods.proxies.CommonProxy;
 import net.minecraft.item.Item;
 import net.minecraftforge.common.util.EnumHelper;
@@ -22,11 +24,15 @@ public class MyMods {
     public void preInit(FMLPreInitializationEvent event) {
         ModItems.init();
         ModItems.registers();
+
+        ModBlocks.init();
+        ModBlocks.registers();
     }
     
     @EventHandler
     public void init(FMLInitializationEvent event) {
         proxy.registerRenders();
+        Recipes.init();
     }
 
     @EventHandler
