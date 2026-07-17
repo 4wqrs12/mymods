@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc771fd6-c515-4aa8-a635-e67c05874711" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/annotation-processors.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/annotation-processors.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/2026-07-16-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-07-16-1.log.gz" afterDir="false" />
@@ -22,6 +30,7 @@
       <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/mod testing/DIM-1/data/villages_nether.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/DIM-1/data/villages_nether.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/mod testing/DIM1/data/villages_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/DIM1/data/villages_end.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/data/Mineshaft.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/data/Mineshaft.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/mod testing/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/data/villages.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/mod testing/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/level.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/mod testing/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/level.dat_old" afterDir="false" />
@@ -29,10 +38,10 @@
       <change beforePath="$PROJECT_DIR$/run/saves/mod testing/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/session.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/MyMods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/MyMods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/items/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/items/ModItems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/proxies/ClientProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/proxies/ClientProxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/mymods/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/mymods/lang/en_US.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/mymods/textures/items/diamond_axe.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +118,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/assets/mymods/models/item" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/assets/mymods/textures/items" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -120,8 +129,8 @@
       <recent name="com.maysat.mymods.items" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/assets/mymods/models/item" />
       <recent name="$PROJECT_DIR$/src/main/resources/assets/mymods/textures/items" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/mymods/models/item" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/assets/mymods/textures/items" />
