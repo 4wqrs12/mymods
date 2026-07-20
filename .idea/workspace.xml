@@ -4,7 +4,90 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc771fd6-c515-4aa8-a635-e67c05874711" name="Default Changelist" comment="" />
+    <list default="true" id="fc771fd6-c515-4aa8-a635-e67c05874711" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/annotation-processors.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/annotation-processors.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-client-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-client-2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-client-3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-client-latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/fml-junk-earlystartup.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/DIM-1/data/villages_nether.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/DIM-1/data/villages_nether.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/DIM1/data/villages_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/DIM1/data/villages_end.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/data/Mineshaft.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/data/Mineshaft.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/data/Village.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/level.dat_mcr" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/level.dat_mcr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/07f066df-e334-33b1-a24c-2ec414c5ef02.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/198eff5d-ccf5-3ba5-aac5-eea0074f959b.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/1fa8a2b7-811f-322e-b30d-8bfc6ccd460c.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/241b8068-7327-314d-abe2-ee7690220b50.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/2c9d87c8-64e7-3ca8-861e-e4a9ef3d93bc.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/3dc994a6-e4ba-3e8a-9bf9-4271ccca9810.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/42468be1-4059-36e2-be82-cb1721e83191.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/446355e4-985a-3d9c-a63c-4d95aa4b0dff.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/5bf9c219-9b9d-3293-9d0d-11b90d104d35.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/5d36a45e-9473-37e3-8760-623ba7be7a5c.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/6004b361-ef29-34d2-b89c-32df237908c7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/68cf6d02-03bc-3f3b-ab98-76a8ec749597.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/6ecd1629-dee4-373d-9457-481bd36b0826.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/playerdata/6ecd1629-dee4-373d-9457-481bd36b0826.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/82eab9c5-ed04-3a17-8da6-2923b8b4dcf8.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/86e39a76-f063-3bee-9e1a-270f7c5ebf9f.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/8a5928f7-beb7-37f5-80fc-dd4e68365b90.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/ac42e7c5-bf90-3ead-ba50-c551df161044.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/b6f7a483-95d4-3c1c-a80d-d6147f86003c.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/c21e574d-957a-383a-949a-73e33ee66435.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/d1b650bf-5f9c-37d3-a469-4d66d1968f90.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/d5c2adf2-8956-39ce-835b-416668af8f9e.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/playerdata/fc13d9f9-a806-3ae0-82c2-ce24ef162c15.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/region/r.-1.-1.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/region/r.-1.0.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/07f066df-e334-33b1-a24c-2ec414c5ef02.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/198eff5d-ccf5-3ba5-aac5-eea0074f959b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/1fa8a2b7-811f-322e-b30d-8bfc6ccd460c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/241b8068-7327-314d-abe2-ee7690220b50.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/2c9d87c8-64e7-3ca8-861e-e4a9ef3d93bc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/3dc994a6-e4ba-3e8a-9bf9-4271ccca9810.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/42468be1-4059-36e2-be82-cb1721e83191.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/446355e4-985a-3d9c-a63c-4d95aa4b0dff.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/5bf9c219-9b9d-3293-9d0d-11b90d104d35.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/5d36a45e-9473-37e3-8760-623ba7be7a5c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/6004b361-ef29-34d2-b89c-32df237908c7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/68cf6d02-03bc-3f3b-ab98-76a8ec749597.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/6ecd1629-dee4-373d-9457-481bd36b0826.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/mod testing/stats/6ecd1629-dee4-373d-9457-481bd36b0826.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/82eab9c5-ed04-3a17-8da6-2923b8b4dcf8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/86e39a76-f063-3bee-9e1a-270f7c5ebf9f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/8a5928f7-beb7-37f5-80fc-dd4e68365b90.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/ac42e7c5-bf90-3ead-ba50-c551df161044.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/b6f7a483-95d4-3c1c-a80d-d6147f86003c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/c21e574d-957a-383a-949a-73e33ee66435.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/d1b650bf-5f9c-37d3-a469-4d66d1968f90.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/d5c2adf2-8956-39ce-835b-416668af8f9e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/mod testing/stats/fc13d9f9-a806-3ae0-82c2-ce24ef162c15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/blocks/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/blocks/ModBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/proxies/ClientProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maysat/mymods/proxies/ClientProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/mymods/blockstates/copper_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/mymods/blockstates/copper_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/mymods/models/block/copper_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/mymods/models/block/copper_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/mymods/models/item/copper_block.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/mymods/models/item/copper_block.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +163,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/assets/mymods/textures/blocks" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -101,7 +184,7 @@
       <recent name="$PROJECT_DIR$/src/main/resources/assets/mymods/models/item" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Minecraft Client">
+  <component name="RunManager" selected="Gradle.mymods [runClient]">
     <configuration name="Minecraft Client" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="GradleStart" />
       <module name="mymods.main" />
@@ -157,6 +240,21 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../mymods\run" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mymods" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
     <configuration name="Minecraft Server" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
       <module name="mymods" />
@@ -203,6 +301,21 @@
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mymods" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../mymods\run" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
