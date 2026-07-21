@@ -14,6 +14,7 @@ public class ModItems {
     public static ItemSpade copperShovel;
     public static ItemPickaxe copperPickaxe;
     public static ItemHoe copperHoe;
+    public static ItemFood candy;
 
     public static void init() {
         copperIngot = new Item().setUnlocalizedName("copper_ingot").setRegistryName("copper_ingot").setCreativeTab(CreativeTabs.tabMaterials);
@@ -22,6 +23,8 @@ public class ModItems {
         copperShovel = new CopperShovel();
         copperPickaxe = new CopperPickaxe();
         copperHoe = new CopperHoe();
+
+        candy = new CandyFood();
     }
 
     public static void registers() {
@@ -31,6 +34,7 @@ public class ModItems {
         register(copperShovel);
         register(copperPickaxe);
         register(copperHoe);
+        register(candy);
     }
 
     public static void register(Item item) {
